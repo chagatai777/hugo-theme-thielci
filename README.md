@@ -17,6 +17,8 @@ This dual-licensing approach ensures compliance with the terms of the
 original license while applying the GPL to any modifications in this
 fork (or at least that's what chatgpt told me!)
 
+This has been added from magit interface.
+
 # Ananke, A theme for [Hugo](https://gohugo.io/), a framework for building websites
 
 > [!WARNING]
