@@ -1,3 +1,22 @@
+# INTRO
+
+This project is a fork of [Ananke
+theme](https://github.com/theNewDynamic/gohugo-theme-ananke), which is
+licensed under the [MIT License](LICENSE). The original work remains
+under the MIT License.
+
+All modifications, additions, and new files introduced in this fork
+are licensed under the [GNU General Public License, version
+3](GPL-LICENSE) (Stallman rocks!).
+
+- **Original code**: Licensed under the [MIT License](LICENSE).
+- **Changes and additions**: Licensed under the [GPL-3
+  License](GPL-LICENSE).
+
+This dual-licensing approach ensures compliance with the terms of the
+original license while applying the GPL to any modifications in this
+fork (or at least that's what chatgpt told me!)
+
 # Ananke, A theme for [Hugo](https://gohugo.io/), a framework for building websites
 
 > [!WARNING]
