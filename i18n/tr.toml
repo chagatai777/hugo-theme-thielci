@@ -2,10 +2,10 @@
 other = "Daha fazla"
 
 [allTitle]
-other = "Tüm {{.Title }}"
+other = "Tüm"
 
 [recentTitle]
-other = "Güncel {{.Title }}"
+other = "Güncel"
 
 [readMore]
 other = "devam et"
