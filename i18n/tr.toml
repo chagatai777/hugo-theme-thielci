@@ -8,10 +8,10 @@ other = "Tüm {{.Title }}"
 other = "Güncel {{.Title }}"
 
 [readMore]
-other = "daha fazla oku"
+other = "devam et"
 
 [whatsInThis]
-other = "Bu {{ .Type }} ne içeriyor"
+other = "İçindekiler"
 
 [related]
 other = "İlişkili"
@@ -23,7 +23,7 @@ other = "İsminiz"
 other = "E-posta Adresi"
 
 [message]
-other = "Mesaj"
+other = "İleti"
 
 [emailRequiredNote]
 other = "E-posta adresi zorunludur."
