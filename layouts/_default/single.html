@@ -48,9 +48,9 @@
       {{ end }}
 
       <!-- Move the TOC here, below the date -->
-      <aside class="w-30-l mt6-l">
+      <nav class="w-30-l mt6-l">
         {{- partial "menu-contextual.html" . -}}
-      </aside>
+      </nav>
     </header>
 
     <section class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} {{ cond (eq $.Site.Language.LanguageDirection "rtl") "pl4-l" "pr4-l" }} w-two-thirds-l">
@@ -67,8 +67,8 @@
     </section>
 
     <!-- Keep TOC in the sidebar for wide screens -->
-    <aside class="w-30-l mt6-l hidden-ns">
+    <nav class="w-30-l mt6-l hidden-ns">
       {{- partial "menu-contextual.html" . -}}
-    </aside>
+    </nav>
   </article>
 {{ end }}
